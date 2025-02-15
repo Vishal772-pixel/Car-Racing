@@ -1,0 +1,21 @@
+{
+  "name": "p5-multiplayer-car-race-game",
+    "version": "1.0.0",
+    "description": "Multiplayer Car Racing Game using p5.js",
+    "main": "sketch.js",
+    "scripts": {
+      "start": "vite",
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview"
+    },
+    "dependencies": {
+      "firebase": "^7.14.4",
+      "p5": "^1.9.0"
+    },
+    "devDependencies": {
+      "vite": "^5.1.0"
+    },
+    "author": "Vishal Tiwari",
+    "license": "MIT"
+}
